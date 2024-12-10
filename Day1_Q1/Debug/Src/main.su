@@ -1,0 +1,5 @@
+../Src/main.c:31:6:vMainLEDTask1	16	static
+../Src/main.c:39:6:vMainLEDTask2	16	static
+../Src/main.c:46:6:vMainLEDTask3	16	static
+../Src/main.c:54:6:vMainLEDTask4	16	static
+../Src/main.c:64:5:main	16	static
